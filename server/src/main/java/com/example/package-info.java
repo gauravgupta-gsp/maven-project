@@ -1,6 +1,4 @@
-package com.example;
-
 /**
-* random comments 
-* 
+* random comments
 */
+package com.example;
